@@ -1,0 +1,18 @@
+{
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "",
+  "admob_inter": "",
+  "admob_reward": "",
+  "admob_app_open": "",
+  "admob_native": "",
+  "admob_native_template_id": "10104090",
+  "facebook_banner": "",
+  "facebook_rectangle": "",
+  "facebook_inter": "",
+  "facebook_native": "",
+  "ad_show_sequance": "5",
+  "is_add_show": "true",
+  "is_livemode": "true",
+  "splash_ad_type": "AppOpen",
+  "spellings": "AppOpen,Interstitial,Native"
+}
